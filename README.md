@@ -12,7 +12,7 @@ A station analysis was done by calculating the total number of stations in the d
 The previous 12 months of temperature observation (TOBS) data was also queried. 
 
 # Climate App
-A Flask API was created to create a Climate App based on these queries. The following routes were created:
+A Flask API was created based on the queries from the precipitation and station analyses. The following routes were created:
 - homepage
 - precipitation: analysis on the last 12 months of data
 - list of stations
