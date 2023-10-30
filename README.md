@@ -3,7 +3,7 @@
 A climate analysis was done to examine the area of Honolulu, Hawaii.
 
 # Analyze and Explore the Climate Data
-Python and SQLAlchemy, Python, SQLAlchemy ORM queries, Pandas, and Matplotlib were used to do a basic climate analysis and data exploration of this climate database.
+Python, SQLAlchemy, SQLAlchemy ORM queries, Pandas, and Matplotlib were used to do a basic climate analysis and data exploration of this climate database.
 
 A precipitation analysis was done for the previous 12 months of precipitation data.
 A summary statistics was created for the precipitation data.
